@@ -10,6 +10,86 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
+### [Manage your Azure deployment slots with Azure CLI and Kudu](https://medium.com/dev-genius/manage-your-azure-deployment-slots-with-azure-cli-and-kudu-5341e3d810c0)
+
+### [Set up a Raspberry Pi as Self-Hosted Agent in Azure DevOps](https://medium.com/swlh/set-up-a-raspberry-pi-as-self-hosted-agent-in-azure-devops-75ea9a4953b6)
+
+### [Reduce your build time using caching in Azure Pipelines](https://medium.com/faun/reduce-your-build-time-using-caching-in-azure-pipelines-7a7bd0201cee)
+
+### [Agile development practices](https://medium.com/analytics-vidhya/agile-development-practices-b134a3aec979)
+
+### [Build, Run, and Continuously deploy a Docker image on Azure Container Registry](https://medium.com/devops-dudes/build-run-and-continuously-deploy-a-docker-image-on-azure-container-registry-6e67021ff4d0)
+
+### [GitHub Advanced Security from Azure DevOps](https://medium.com/faun/github-advanced-security-from-azure-devops-9f114d416d4b)
+
+### [Azure storage account](https://medium.com/faun/azure-storage-account-68c478be485d)
+
+### [Azure DevOps work items explained](https://medium.com/faun/azure-devops-work-items-explained-10c4721c0880)
+
+### [Remove Quick access from File Explorer in Windows 10](https://gtrekter.medium.com/remove-quick-access-from-file-explorer-in-windows-10-1a7a554309bf)
+
+### [Single responsibility principle](https://medium.com/dev-genius/solid-single-responsibility-principle-61f2c4b3d982)
+
+### [403.16 — Client certificate is untrusted of invalid](https://gtrekter.medium.com/403-16-client-certificate-is-untrusted-of-invalid-b6ffb7d44b06)
+
+### [SharePoint Site Templates](https://medium.com/dev-genius/sharepoint-site-templates-c7f9f3e70b0b)
+
+### [Open-Closed principle](https://medium.com/analytics-vidhya/open-closed-principle-e48a37947527)
+
+### [Branch protection in Azure DevOps](https://medium.com/faun/branch-protection-in-azure-devops-eb778acfa55f)
+
+### [Remote debugging Azure App Service](https://medium.com/dev-genius/remote-debugging-azure-app-service-c9a89e2f8771)
+
+### [Liskov Substitution principle](https://medium.com/analytics-vidhya/liskov-substitution-principle-fb36c7a38874)
+
+### [Azure pipelines deployment approvals](https://medium.com/faun/azure-pipelines-deployment-approvals-e80304e8a65b)
+
+### [How to solve SharePoint Designer cached credentials issue](https://gtrekter.medium.com/how-to-solve-sharepoint-designer-cached-credentials-issue-ea457d9e7c4c)
+
+### [Hide/Show the folders from This PC in Windows 10](https://gtrekter.medium.com/hide-show-the-folders-from-this-pc-in-windows-10-cb5172df6c12)
+
+### [Cloud computing service models](https://gtrekter.medium.com/cloud-computing-service-models-423bdd4192ff)
+
+### [Boxing and unboxing in C#](https://gtrekter.medium.com/boxing-and-unboxing-in-c-b9d58216a3f7)
+
+### [.NET Core deployment types](https://medium.com/faun/net-core-deployment-types-2be73f53e83f)
+
+### [Demystifying ASP.NET Core](https://medium.com/faun/demystifying-asp-net-core-aad722ebbd51)
+
+### [Connect Your Teams Bot to Microsoft Graph](https://medium.com/swlh/connect-your-teams-bot-to-microsoft-graph-19c4344ad526)
+
+
+
+
+
+
+![image](https://miro.medium.com/max/700/1*iD3UQ4dh4xiZjZYnQIU3uQ.jpeg)
+### [How to create and configure your bot to work in Microsoft Teams](https://medium.com/faun/how-to-create-and-configure-your-bot-to-work-in-microsoft-teams-a9272e8f01f8)
+This article is a step-by-step guide on how to create a Bot from scratch using Microsoft Bot Framework and how to configure it to work with Microsoft Teams..
+
+![image](https://miro.medium.com/max/700/0*qnXCkBVWy_ubPeat)
+### [How to debug a SharePoint timer job with Visual Studio](https://gtrekter.medium.com/how-to-debug-a-sharepoint-timer-job-with-visual-studio-7c6e1fd2cf49)
+Timer jobs are an effective solution to handle a situation where a specific process needs to run periodically. The following steps describe how to debug a Microsoft SharePoint 2010 timer job using Visual Studio.
+
+![image](https://miro.medium.com/max/700/0*EFtUihhSC60Yjk8e)
+### [Brute force attack with Hydra and Kali Linux](https://gtrekter.medium.com/brute-force-attack-with-hydra-and-kali-linux-3c4ede55d119)
+Hydra is a fast and flexible login cracker which can be used on both Linux and Windows, and supports protocols like AFP, HTTP-FORM-GET, HTTP-GET, HTTP-FORM-POST, HTTP-HEAD, HTTP-PROXY, and many more.
+
+![image](https://miro.medium.com/max/700/0*IsviZ_Ok7ajMTybG)
+### [What is GAC?](https://medium.com/dev-genius/what-is-gac-859f7348169b)
+The Global Assembly Cache (GAC) is a local cache maintained by the .NET Framework where strong-named assemblies (their name is composed by: name of assembly, version number, culture and public key token) that are designated to be shared by all the applications executed on a system will be stored.
+
+![image](https://miro.medium.com/max/700/1*QqjoOcfqtVgNHiJlfEo89g.jpeg)
+### [Move your SharePoint On-Premise to Teams](https://gtrekter.medium.com/move-your-sharepoint-on-premise-to-teams-796459c7fa47)
+With the Covid-19 pandemic, remote working has become a must more than a luxury. Many companies decided to adopt Microsoft Teams as a collaboration software between its employees, and others even moved part of their infrastructure to it. This article will explain how Microsoft Teams works and the relationship between it and SharePoint Online.
+
+![image](https://miro.medium.com/max/700/0*2qM5iGqM_Y-IDOmo)
+### [What is the difference between String and StringBuilder?](https://medium.com/dev-genius/what-is-the-difference-between-string-and-stringbuilder-bc533f8f16f2)
+Difference between the String and StringBuilder is an important concept that makes the difference when an application has to deal with the editing of a high number of Strings.
+
+### [Partial classes and methods](https://medium.com/dev-genius/partial-classes-and-methods-fa6da5d97cb8)
+In this article, I’m going to explain what partial classes and partial methods are, and how to implement them in C#.
+
 ### [What is DevOps and how to implement it in your organization using Microsoft](https://medium.com/faun/what-is-devops-and-how-to-implement-it-in-your-organization-using-microsoft-657c93448b7b)
 DevOps is a hot topic today. However, there is a lot of confusion about it is. According to research conducted by Gartner, a global research and advisory firm in the United States, while 90% of the interviewed organizations describe themselves as being busy with DevOps, 44% openly admit that they are still trying to find out what it means. In this document, I will introduce the readers to the fundamental concepts of the DevOps and t...
 
