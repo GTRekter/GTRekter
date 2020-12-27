@@ -10,8 +10,11 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
+### [Getting started with Kubernetes](https://gtrekter.medium.com/getting-started-with-kubernetes-b0ac21c6f0ee)
+Nowadays, when a client asks to create a highly available distributed system, Kubernetes has become the go-to choice. This resulted in a 69 percent use growth, according to the StackRox 2020 report. This article will give you a quick overview of Kubernetes. It’ll explain which problems it solves, how it works, and what its main components are. The concept behind Kubernetes is strictly related to Microservices, so I will summarize that as well to give you a bit of context...
+
 ### [Parallel jobs in Azure DevOps](https://gtrekter.medium.com/parallel-jobs-in-azure-devops-824e697bff18)
-In this article, I will talk about parallel jobs in Azure Pipelines, and I’ll provide you with several hints to determine how many you need.
+In this article, I will talk about parallel jobs in Azure Pipelines, and I’ll provide you with several hints to determine how many you need...
 
 ### [Manage your Azure deployment slots with Azure CLI and Kudu](https://medium.com/dev-genius/manage-your-azure-deployment-slots-with-azure-cli-and-kudu-5341e3d810c0)
 In this article, I’m going to show you how to create and manage Azure deployment slots using Azure CLI...
