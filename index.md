@@ -10,37 +10,34 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
-### What is a garbage collector?
+### [What is DevOps and how to implement it in your organization using Microsoft](https://medium.com/faun/what-is-devops-and-how-to-implement-it-in-your-organization-using-microsoft-657c93448b7b)
+DevOps is a hot topic today. However, there is a lot of confusion about it is. According to research conducted by Gartner, a global research and advisory firm in the United States, while 90% of the interviewed organizations describe themselves as being busy with DevOps, 44% openly admit that they are still trying to find out what it means. In this document, I will introduce the readers to the fundamental concepts of the DevOps and t...
+
+![image](https://miro.medium.com/max/700/0*vf19BIA8bz-PBNfT)
+### [What is CTS?](https://gtrekter.medium.com/what-is-cts-2246759c5b39)
+.NET is language-agnostic, which allows programmers to write code in different languages (which can be compiled to IL), and that code can interact with other code written in different languages. This feature is provided by the CTS (Common Type System), a standard that specifies how type definitions are represe...
+
+### [What is a garbage collector?](https://medium.com/dev-genius/what-is-a-garbage-collector-ac4bb0892c1c)
 The garbage collector (GC) is a part of the .NET framework which is initialized by the common language run-time (CLR) to manage the allocation and release of memory in an application...
-[link](https://medium.com/dev-genius/what-is-a-garbage-collector-ac4bb0892c1c)
 
-### Continuous testing and integration with GitHub repo and CircleCI
+### [Continuous testing and integration with GitHub repo and CircleCI](https://medium.com/faun/continuous-testing-and-integration-with-github-repo-and-circleci-ef9480fb64ed)
 In this article, I’ll show you how to use two patterns that have penetrated all aspects of software development: continuous testing and integration. For this tutorial, I’m gonna use a repo on GitHub and CircliCI, so first, we need to sign up to CircleCI and link our GitHub profile.
-[link](https://medium.com/faun/continuous-testing-and-integration-with-github-repo-and-circleci-ef9480fb64ed)
 
-### State Management in ASP.NET
+### [State Management in ASP.NET](https://gtrekter.medium.com/state-management-in-asp-net-bb9fdff06dee)
 Whenever you visit a web application, your browser will communicate with the respective server through HTTP or HTTPs protocol, but because its stateless nature, if you visit the same web application again after closing the web browser, there will be no trace of your previous visit...
-[link](https://gtrekter.medium.com/state-management-in-asp-net-bb9fdff06dee)
 
-### What is a virtual member?
+### [What is a virtual member?](https://gtrekter.medium.com/what-is-a-virtual-member-677a2c7510eb)
 We can’t talk about virtual members without referring to polymorphism. In fact, a function, property, indexer or event in a base class marked as virtual will allow override from a derive...
-[link](https://gtrekter.medium.com/what-is-a-virtual-member-677a2c7510eb)
 
-### Coding challenge | Microsoft interview | Part 1
-In this article, I share some questions that I get during my technical interview at Microsoft.
-[link](https://medium.com/dev-genius/data-types-and-memory-management-in-c-db95f728153)
-
-### Sealed modifiers
+### [Data types and memory management in C#](https://medium.com/dev-genius/data-types-and-memory-management-in-c-db95f728153)
 Before explaining the different data types available in C#, it’s important to mention that C# is a strongly-typed language. This means that each variable, constant, input parameter, return type and in general every expression that evaluates to a value, has a ...
-[link](https://medium.com/dev-genius/data-types-and-memory-management-in-c-db95f728153)
 
-### Sealed modifiers
+### [Sealed modifiers](https://medium.com/analytics-vidhya/sealed-modifiers-7baa59d2eb0d)
 In this article, I will discuss what is a sealed modifier, how to use it and what’s its impact on your application’s performance.
-[link](https://medium.com/analytics-vidhya/sealed-modifiers-7baa59d2eb0d)
 
-### How to create a web application using NPM and Docker in 5 minutes or less
+### [How to create a web application using NPM and Docker in 5 minutes or less](https://medium.com/faun/how-to-create-a-web-application-using-npm-and-docker-in-5-minutes-or-less-227e33684f88)
 In this article, I will show first how to build a Docker image and then download it from Docker Hub and use it to instantiate a new web application.
-[link](https://medium.com/faun/how-to-create-a-web-application-using-npm-and-docker-in-5-minutes-or-less-227e33684f88)
+
 
 
 
