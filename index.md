@@ -133,34 +133,15 @@ In this article, I will show first how to build a Docker image and then download
 
 
 
-### Markdown
+### Social
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Facebook](https://www.facebook.com/ivan.porta/) 
+- [Instagram](https://www.instagram.com/gtrekter/) 
+- [Twitter](https://twitter.com/gtrekter/) 
+- [Linkedin](https://www.linkedin.com/in/ivanporta) 
+- [Medium](https://gtrekter.medium.com/) 
+- [GitHub](https://github.com/GTRekter) 
+- [Stack Overflow](https://stackoverflow.com/users/6613232/ivan-porta) 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GTRekter/Akis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
