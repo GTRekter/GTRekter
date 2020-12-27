@@ -10,6 +10,9 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
+### [Parallel jobs in Azure DevOps](https://gtrekter.medium.com/parallel-jobs-in-azure-devops-824e697bff18)
+In this article, I will talk about parallel jobs in Azure Pipelines, and I’ll provide you with several hints to determine how many you need.
+
 ### [Manage your Azure deployment slots with Azure CLI and Kudu](https://medium.com/dev-genius/manage-your-azure-deployment-slots-with-azure-cli-and-kudu-5341e3d810c0)
 In this article, I’m going to show you how to create and manage Azure deployment slots using Azure CLI...
 
@@ -129,9 +132,6 @@ In this article, I will discuss what is a sealed modifier, how to use it and wha
 
 ### [How to create a web application using NPM and Docker in 5 minutes or less](https://medium.com/faun/how-to-create-a-web-application-using-npm-and-docker-in-5-minutes-or-less-227e33684f88)
 In this article, I will show first how to build a Docker image and then download it from Docker Hub and use it to instantiate a new web application...
-
-
-
 
 ### Social
 
