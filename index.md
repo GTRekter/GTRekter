@@ -10,6 +10,12 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
+### [How to deploy a .NET 5 API in a Kubernetes cluster](https://gtrekter.medium.com/how-to-deploy-a-net-5-api-in-a-kubernetes-cluster-53212af6a0e2)
+In this demo, I will explain how creating and deploying a .NET 5 API in a Kubernetes cluster works, as well as look at its exposure via service object...
+
+### [Pods, Deployments, and Services in Kubernetes](https://medium.com/swlh/pods-deployments-and-services-in-kubernetes-396e04e41e8)
+This article will explain Kubernetes more in-depth by introducing pods, services, and deployments...
+
 ### [Getting started with Kubernetes](https://gtrekter.medium.com/getting-started-with-kubernetes-b0ac21c6f0ee)
 Nowadays, when a client asks to create a highly available distributed system, Kubernetes has become the go-to choice. This resulted in a 69 percent use growth, according to the StackRox 2020 report. This article will give you a quick overview of Kubernetes. It’ll explain which problems it solves, how it works, and what its main components are. The concept behind Kubernetes is strictly related to Microservices, so I will summarize that as well to give you a bit of context...
 
