@@ -10,6 +10,9 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
+### [How to deploy a .NET 5 API in a Kubernetes cluster](https://gtrekter.medium.com/getting-started-with-azure-kubernetes-service-9cbe7e79ba23)
+In today’s article, I am going to talk about the Microsoft cloud Kubernetes service. If you are not familiar with Kubernetes, I highly recommend reading my previous article since I will refer to con...
+
 ### [How to deploy a .NET 5 API in a Kubernetes cluster](https://gtrekter.medium.com/how-to-deploy-a-net-5-api-in-a-kubernetes-cluster-53212af6a0e2)
 In this demo, I will explain how creating and deploying a .NET 5 API in a Kubernetes cluster works, as well as look at its exposure via service object...
 
