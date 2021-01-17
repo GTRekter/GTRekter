@@ -10,6 +10,9 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
+### [Kubernetes endpoints](https://gtrekter.medium.com/kubernetes-endpoints-2d77eca96a7b)
+In my previous article, I defined services as objects with a static IP that forwards the requests to pods whose selector contains a label...
+
 ### [How to deploy a .NET 5 API in a Kubernetes cluster](https://gtrekter.medium.com/getting-started-with-azure-kubernetes-service-9cbe7e79ba23)
 In today’s article, I am going to talk about the Microsoft cloud Kubernetes service. If you are not familiar with Kubernetes, I highly recommend reading my previous article since I will refer to con...
 
