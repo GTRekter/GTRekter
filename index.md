@@ -9,6 +9,8 @@ During my free time, I enjoy sharing my knowledge and experiences with the devel
 While I love coding in general, I am a Microsoft stack man, and I want to stay loyal to my tribe.
 
 ## Recent Posts
+### [Automating your Microsoft Teams creation process using PowerShell](https://gtrekter.medium.com/automating-your-microsoft-teams-creation-process-using-powershell-bab3759d23e5)
+Creating teams, channels and assigning users to them might become very time-consuming, especially if your company has dozens of channels and hundreds or even thousands of users with different roles.For this reason, I created a script that automates the entire process for you...
 
 ### [Kubernetes endpoints](https://gtrekter.medium.com/kubernetes-endpoints-2d77eca96a7b)
 In my previous article, I defined services as objects with a static IP that forwards the requests to pods whose selector contains a label...
