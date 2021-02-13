@@ -9,6 +9,16 @@ During my free time, I enjoy sharing my knowledge and experiences with the devel
 While I love coding in general, I am a Microsoft stack man, and I want to stay loyal to my tribe.
 
 ## Recent Posts
+
+### [Azure Pipelines YAML Templates](https://medium.com/swlh/azure-pipelines-yaml-templates-194bd35e8aa6)
+This article will talk about YAML templates. By using these templates, you can make your code reusable and simplify sharing code across multiple pipelines...
+
+### [Automate your Power BI reports deployment using Azure DevOps](https://medium.com/swlh/automate-you-power-bi-reports-deployment-using-azure-devops-5ada8915d401)
+This article will guide you through the implementation of CI/CD pipelines using Azure DevOps. This will enable you to deploy your local report to your Power BI service automatically. To show you how it works, I will use an extension called Power BI Actions, available for free on the Visual Studio marketplace...
+
+### [Azure DevOps service tag](https://medium.com/faun/azure-devops-service-tag-168384b1eac0)
+Microsoft recently announced support for the Azure DevOps service tag. In this article, I will explain how the Azure DevOps service tags work and why they are helpful...
+
 ### [Automating your Microsoft Teams creation process using PowerShell](https://gtrekter.medium.com/automating-your-microsoft-teams-creation-process-using-powershell-bab3759d23e5)
 Creating teams, channels and assigning users to them might become very time-consuming, especially if your company has dozens of channels and hundreds or even thousands of users with different roles.For this reason, I created a script that automates the entire process for you...
 
