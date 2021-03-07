@@ -10,6 +10,15 @@ While I love coding in general, I am a Microsoft stack man, and I want to stay l
 
 ## Recent Posts
 
+### [How Azure can help your company expand in multiple regions (2 of 5)](https://gtrekter.medium.com/how-azure-can-help-your-company-expand-in-multiple-regions-2-of-5-bb35920cabe9)
+In my previous article, we created a proposal based on the company’s overview, goals, and technology, then highlighting the benefits of an architecture base on Azure resources and giving an overview of its flow. In today’s article, I am going to start guiding you by implementing the proposed architecture by creating an Azure SQL database resourc...
+
+### [How Azure can help your company expand in multiple regions (1 of 5)](https://gtrekter.medium.com/how-azure-can-help-your-company-expand-in-multiple-regions-1-of-5-43377cbfc1cb)
+This month, I want to do something different. Typically, I discuss standalone topics related to an overall theme without really connecting each of them. But this time, I will guide you through a real-life scenario of how Azure can help your organization; starting with the analysis of the deliverable, through to their implementation...
+
+### [Manage Delivery Plans With Azure DevOps](https://medium.com/swlh/manage-delivery-plans-with-azure-devops-12f6a0e3204)
+By default, Azure Boards don’t provide an option to show the progress of the scheduled work items of a team by sprint in a calendar view. However, you can add this capability by installing the Delivery Plans official extension....
+
 ### [Azure Pipelines YAML Templates](https://medium.com/swlh/azure-pipelines-yaml-templates-194bd35e8aa6)
 This article will talk about YAML templates. By using these templates, you can make your code reusable and simplify sharing code across multiple pipelines...
 
