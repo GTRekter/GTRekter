@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Ivan 👋
+### Microsoft Certified DevOps Engineer Expert | MCT | Public Speaker | Customer Engineer @Microsoft
+
+Ever since I was a little kid, technology has been a fundamental part of my life. After studying Computer Science, my hunger and curiosity made me complete multiple college certifications at MIT and UCSD on Cloud Computing and C# programming. During my career, I worked for numerous consultancy and fintech companies worldwide, and since 2021 I am working as a Customer Engineer at Microsoft. In addition to my work required duties, I am also an active member of the development community. I periodically write articles, reply to StackOverflow questions, and conduct live workshops and keynotes for international audiences on topics like Azure, DevOps, and coding best practices.
+
+![Visitor Count](https://profile-counter.glitch.me/GTRekter/count.svg)
+
+
 
 <!--
 **GTRekter/GTRekter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
