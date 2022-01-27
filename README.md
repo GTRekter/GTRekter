@@ -1,5 +1,3 @@
-![Main](assets/header.gif)
-
 # Hi there, I'm Ivan 👋
 ### Microsoft Certified DevOps Engineer Expert | MCT | Public Speaker | Customer Engineer @Microsoft
 
