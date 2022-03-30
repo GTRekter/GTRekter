@@ -21,6 +21,9 @@
 <a href="https://www.buymeacoffee.com/GTRekter/" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/buymeacoffee.png" />
 </a>
+<a href="https://sessionize.com/ivanporta/" target="_blank">
+  <img align="left" alt="Sessionize" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/sessionize.png" />
+</a>
 <a href="https://ivanporta.net/assets/documents/Resume.pdf" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/resume.svg" />
 </a>
