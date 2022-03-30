@@ -1,7 +1,7 @@
 ![Main](assets/header.gif)
 
 # Hi there, I'm Ivan 👋
-### Microsoft Certified DevOps Engineer Expert | MCT | MCE | Public Speaker | Customer Engineer @Microsoft
+### Microsoft Certified DevOps Engineer Expert | MCT | MCE | Public Speaker | Senior DevOps Consultant @Avanade
 
 <a href="https://twitter.com/gtrekter" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/twitter.svg" />
@@ -26,7 +26,7 @@
 </a>
 <br/><br/>
 
-Ever since I was a little kid, technology has been a fundamental part of my life. After studying Computer Science, my hunger and curiosity made me complete multiple college certifications at MIT and UCSD on Cloud Computing and C# programming. During my career, I worked for numerous consultancy and fintech companies worldwide, and since 2021 I am working as a Customer Engineer at Microsoft. In addition to my work required duties, I am also an active member of the development community. I periodically write articles, reply to StackOverflow questions, and conduct live workshops and keynotes for international audiences on topics like Azure, DevOps, and coding best practices.
+Ever since I was a little kid, technology has been a fundamental part of my life. After studying Computer Science, my hunger and curiosity made me complete multiple college certifications at MIT and UCSD on Cloud Computing and C# programming. During my career, I worked for numerous consultancy and fintech companies worldwide, and since 2022 I am working as a Senior DevOps Consultant at Avanade. In addition to my work required duties, I am also an active member of the development community. I periodically write articles, reply to StackOverflow questions, and conduct live workshops and keynotes for international audiences on topics like Azure, DevOps, and coding best practices.
 
 ### This github space is mainly used for
 
