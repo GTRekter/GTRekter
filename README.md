@@ -27,6 +27,9 @@
 <a href="https://www.codementor.io/@ivanportaweb" target="_blank">
   <img align="left" alt="Codementor" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/codementor.png" />
 </a>
+<a href="https://www.credly.com/users/ivan-porta/badges" target="_blank">
+  <img align="left" alt="Certifications" width="17px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/certification.png" />
+</a>
 <a href="https://ivanporta.net/assets/documents/Resume.pdf" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/resume.svg" />
 </a>
