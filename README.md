@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/ivanporta/" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/in/ivanporta/" target="_blank">
+<a href="https://www.instagram.com/gtrekter/" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/6613232/ivan-porta" target="_blank">
