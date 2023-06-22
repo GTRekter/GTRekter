@@ -1,7 +1,7 @@
 ![Main](assets/header.gif)
 
 # Hi there, I'm Ivan (アイバン) 👋
-### Microsoft Certified DevOps Engineer Expert | MCT | MCE | Public Speaker | Senior DevOps Consultant @Avanade
+### Microsoft Certified DevOps Engineer Expert | MCT | MCE | Public Speaker
 
 <a href="https://twitter.com/gtrekter" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/twitter.svg" />
