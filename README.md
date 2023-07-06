@@ -30,12 +30,13 @@
 <a href="https://www.credly.com/users/ivan-porta/badges" target="_blank">
   <img align="left" alt="Certifications" width="17px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/certification.png" />
 </a>
-<a href="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/documents/Resume.pdf" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/resume.svg" />
-</a>
 <br/><br/>
 
-Ever since I was a little kid, technology has been a fundamental part of my life. After studying Computer Science, my hunger and curiosity made me complete multiple college certifications at MIT and UCSD on Cloud Computing and C# programming. During my career, I worked for numerous consultancy and fintech companies worldwide, and since 2022 I am working as a Senior DevOps Consultant at Avanade. In addition to my work required duties, I am also an active member of the development community. I periodically write articles, reply to StackOverflow questions, and conduct live workshops and keynotes for international audiences on topics like Azure, DevOps, and coding best practices.
+Technology has always been my passion since I was a little kid. My inquisitive nature steered me towards acquiring a wealth of knowledge through advanced certifications at esteemed institutions such as MIT and UCSD.
+
+My journey in the professional world has been both diverse and global. I've had the privilege of collaborating with high-profile clients including Barclays and Microsoft, along with a multitude of others spread across continents, from the United States to the Saudi Emirates. I've also immersed myself in diverse work cultures and environments in Australia, the Czech Republic, Italy, and, ultimately, the UK.
+
+Outside of my professional endeavors, I am deeply involved in the development community. I frequently write articles, respond to queries on StackOverflow, and host live workshops and keynote speeches for audiences worldwide. My discussions delve into various topics, ranging from Azure and DevOps to coding best practices.
 
 ### This github space is mainly used for
 
