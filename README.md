@@ -1,6 +1,6 @@
 ![Main](assets/header.gif)
 
-# Hi there, I'm Ivan (アイバン) 👋
+# Hi there, I'm Ivan (이반) 👋
 ### Microsoft Certified DevOps Engineer Expert | MCT | MCE | Public Speaker
 
 <a href="https://twitter.com/gtrekter" target="_blank">
