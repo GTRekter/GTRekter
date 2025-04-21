@@ -34,7 +34,7 @@
 
 Technology has always been my passion since I was a little kid. My inquisitive nature steered me towards acquiring a wealth of knowledge through advanced certifications at esteemed institutions such as MIT and UCSD.
 
-My journey in the professional world has been both diverse and global. I've had the privilege of collaborating with high-profile clients including Barclays and Microsoft, along with a multitude of others spread across continents, from the United States to the Saudi Emirates. I've also immersed myself in diverse work cultures and environments in Australia, the Czech Republic, Italy, and, ultimately, the UK.
+My journey in the professional world has been both diverse and global. I've had the privilege of collaborating with high-profile clients including Barclays and Microsoft, along with a multitude of others spread across continents, from the United States to the Saudi Emirates. I've also immersed myself in diverse work cultures and environments in Australia, the Czech Republic, Italy, the UK and, ultimately, South Korea.
 
 Outside of my professional endeavors, I am deeply involved in the development community. I frequently write articles, respond to queries on StackOverflow, and host live workshops and keynote speeches for audiences worldwide. My discussions delve into various topics, ranging from Azure and DevOps to coding best practices.
 
