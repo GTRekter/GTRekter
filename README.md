@@ -1,25 +1,23 @@
 ![Main](assets/header.gif)
-
 # Hi there, I'm Ivan (이반) 👋
-### Senior DevOps Engineer | Terraform Associate | Certified Argo Project Associate
-
+### Founder @ Todea 
 <a href="https://twitter.com/gtrekter" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ivanporta/" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/gtrekter/" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/6613232/ivan-porta" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/stackoverflow.svg" />
+  <img align="left" alt="Stack Overflow" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/stackoverflow.svg" />
 </a>
 <a href="https://gtrekter.medium.com/" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/medium.svg" />
+  <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/medium.svg" />
 </a>
 <a href="https://www.buymeacoffee.com/GTRekter/" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/buymeacoffee.png" />
+  <img align="left" alt="Buy Me a Coffee" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/buymeacoffee.png" />
 </a>
 <a href="https://sessionize.com/ivanporta/" target="_blank">
   <img align="left" alt="Sessionize" width="22px" src="https://raw.githubusercontent.com/GTRekter/GTRekter/master/assets/sessionize.png" />
@@ -32,18 +30,16 @@
 </a>
 <br/><br/>
 
-Technology has always been my passion since I was a little kid. My inquisitive nature steered me towards acquiring a wealth of knowledge through advanced certifications at esteemed institutions such as MIT and UCSD.
+I'm the founder of [Todea](https://todea.co.kr), a Seoul-based cloud-native engineering consultancy serving private-sector enterprises across Korea, Japan, and APAC. We deliver production-grade Kubernetes platforms, implementation, ongoing operations, and platform readiness assessments, with a vendor-neutral, CNCF-native approach.
 
-My journey in the professional world has been both diverse and global. I've had the privilege of collaborating with high-profile clients including Barclays and Microsoft, along with a multitude of others spread across continents, from the United States to the Saudi Emirates. I've also immersed myself in diverse work cultures and environments in Australia, the Czech Republic, Italy, the UK and, ultimately, South Korea.
+My work focuses on Kubernetes platform engineering, observability, GitOps, and zero-trust networking. Italian by origin, based in Seoul. I've spoken at KubeCon North America, KCD Seoul, KCD Kuala Lumpur, Cloud Native Kolkata, and Cloud Native Kuala Lumpur, and write at [gtrekter.medium.com](https://gtrekter.medium.com) and [todea.co.kr/blog](https://todea.co.kr/blog).
 
-Outside of my professional endeavors, I am deeply involved in the development community. I frequently write articles, respond to queries on StackOverflow, and host live workshops and keynote speeches for audiences worldwide. My discussions delve into various topics, ranging from Azure and DevOps to coding best practices.
+### What this GitHub space is for
+- Cloud-native engineering POCs
+- Open source contributions and project work
+- Companion repos for articles and conference talks
+- Knowledge sharing and demo material
 
-### This github space is mainly used for
+Feel free to contribute to any of my project repositories by submitting a pull request.
 
-- DevOps POCs.
-- Open source projects.
-- Contributing to open source projects and issues
-- Learning and sharing knowledge
-
-Feel free to contribute to any of my project repositories by submitting a pull request.  
-Thanks for visiting. 
+Thanks for visiting.
